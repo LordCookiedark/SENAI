@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746818693 source:c:\users\criscobrão\desktop\codigos\senai\senai\ead vetor\vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
