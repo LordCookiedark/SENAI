@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\bin\Debug\net10.0\Battle.exe
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\bin\Debug\net10.0\Battle.deps.json
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\bin\Debug\net10.0\Battle.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\bin\Debug\net10.0\Battle.dll
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\bin\Debug\net10.0\Battle.pdb
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.dll
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\refint\Battle.dll
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.pdb
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\Battle.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\EAD\Battle\Battle\obj\Debug\net10.0\ref\Battle.dll
