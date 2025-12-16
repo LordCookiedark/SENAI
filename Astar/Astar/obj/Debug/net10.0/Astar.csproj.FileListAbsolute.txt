@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\bin\Debug\net10.0\Astar.exe
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\bin\Debug\net10.0\Astar.deps.json
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\bin\Debug\net10.0\Astar.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\bin\Debug\net10.0\Astar.dll
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\bin\Debug\net10.0\Astar.pdb
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.dll
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\refint\Astar.dll
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.pdb
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\Astar.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\EAD\Astar\Astar\obj\Debug\net10.0\ref\Astar.dll
